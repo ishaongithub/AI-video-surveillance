@@ -1,7 +1,3 @@
-body
-{
-background-size: cover;
-}
 
 .heading
 {
@@ -10,7 +6,7 @@ width: 100%;
 margin: 0px;
 }
 
-#start , #number_of_objects , #status
+#start , #number_of_objects , #start
 {
 font-size: 18px;
 }
